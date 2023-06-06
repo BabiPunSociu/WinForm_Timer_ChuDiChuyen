@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\bin\Debug\Bai14_Trang76_Timer.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\bin\Debug\Bai14_Trang76_Timer.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\bin\Debug\Bai14_Trang76_Timer.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai14_Trang76_Timer\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\bin\Debug\Bai14_Trang76_Timer.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\bin\Debug\Bai14_Trang76_Timer.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\bin\Debug\Bai14_Trang76_Timer.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Timer_ChuDiChuyen\Bai14_Trang76_Timer\obj\Debug\Bai14_Trang76_Timer.pdb
